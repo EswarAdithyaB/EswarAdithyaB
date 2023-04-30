@@ -12,7 +12,9 @@
 - 📫 How to reach me **2100039088cse.r@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1jyolov1A6PycaNGlWM1-JdQXMM4XUEa4/view?usp=share_link](https://drive.google.com/file/d/1jyolov1A6PycaNGlWM1-JdQXMM4XUEa4/view?usp=share_link)
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/adithyaeswar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adithyaeswar" height="30" width="40" /></a>
